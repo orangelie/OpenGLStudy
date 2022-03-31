@@ -13,7 +13,7 @@ This project uses **OpenGL** to record and share what I personally studied.
 **[Esc]**: Close a Window.
 
 ## 📷 Photo
-![]()
+![](https://github.com/Mawi1e/OpenGLStudy/blob/main/1.%20OpenGL%20Initialization%20(2022-04-01)/pict/initialization.png)
 
 ## 🗡️ Skills
 ### Platform & Languages
