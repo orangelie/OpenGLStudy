@@ -11,9 +11,9 @@ This project uses **OpenGL** to record and share what I personally studied.
 
 
 ## 🔑 How to use?
-**[1]**: Convert to Solid(Fill) Mode.
-**[2]**: Convert to Wireframe Mode.
-**[Esc]**: Close a Window.
+**[1]**: Convert to Solid(Fill) Mode.  
+**[2]**: Convert to Wireframe Mode.  
+**[Esc]**: Close a Window.  
 
 ## 📷 Photo
 ![](https://github.com/Mawi1e/OpenGLStudy/blob/main/2.%20Hello%20Triangle%20(2022-04-02~2022-04-03)/pict/triangle.png)
